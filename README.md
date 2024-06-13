@@ -33,7 +33,22 @@
     </a> 
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="40" height="40"/> 
-    </a> 
+    </a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=github" alt="aws" width="40" height="40"/> 
+    </a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=githubactions" alt="aws" width="40" height="40"/> 
+    </a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=jenkins" alt="aws" width="40" height="40"/> 
+    </a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=grafana" alt="aws" width="40" height="40"/> 
+    </a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=kafka" alt="aws" width="40" height="40"/> 
+    </a>
 </p>
 
 <p align="center">
