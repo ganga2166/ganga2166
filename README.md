@@ -3,8 +3,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ganga-prasad2166/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ganga2166" height="30" width="40" /></a>
+<a href="https://medium.com/@mukkagangaprasad" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ganga2166" height="30" width="40" /></a>
 <a href="https://x.com/Ganga2166" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="13285241" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Blogs:</h3>
+<p align="left">
+<a href="https://medium.com/@mukkagangaprasad" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="ganga2166" height="30" width="80" /></a>
+<a href="https://dev.to/gangaprasad_07bcb0289de5d" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="13285241" height="30" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,20 +40,32 @@
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="40" height="40"/> 
     </a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=github" alt="aws" width="40" height="40"/> 
+    <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/> 
     </a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=githubactions" alt="aws" width="40" height="40"/> 
+    <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" width="40" height="40"/> 
     </a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=jenkins" alt="aws" width="40" height="40"/> 
+    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> 
     </a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=grafana" alt="aws" width="40" height="40"/> 
+    <a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> 
     </a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=kafka" alt="aws" width="40" height="40"/> 
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> 
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> 
+    </a>
+    <a href="https://nginx.org/en/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> 
+    </a>
+    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=terraform" alt="terraform" width="40" height="40"/> 
+    </a>
+    <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=ansible" alt="ansible" width="40" height="40"/> 
     </a>
 </p>
 
