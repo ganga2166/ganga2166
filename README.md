@@ -2,6 +2,10 @@
 <pre>
 <code class="language-shell">[ganga@github! ~] $whoami</code>
 </pre>
+
+<p style="text-align: center; color: #61DAFB;">
+    Passionate DevOps engineer with expertise in AWS, Azure, and GCP. I enjoy working with containerization and orchestration tools like Kubernetes and Docker. Always eager to learn new technologies.
+  </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ganga2166&label=Profile%20views&color=0e75b6&style=flat" alt="ganga2166" /> </p>
 
 <h3 align="left">Connect with me:</h3>
