@@ -36,7 +36,8 @@
     </a> 
 </p>
 
-
-<p align="center" style="margin-top:1rem;">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganga2166" />
-</p>
+<div align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=ganga2166&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j" alt="GitHub Streak">
+    </a>
+</div>
