@@ -36,8 +36,10 @@
     </a> 
 </p>
 
-<div align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=ganga2166&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j" alt="GitHub Streak">
-    </a>
-</div>
+<p align="center">
+   <picture style="display: block; margin: 0 auto;">
+       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ganga2166&theme=dark" />
+       <img src="https://streak-stats.demolab.com?user=ganga2166" />
+   </picture>
+</p>
+
