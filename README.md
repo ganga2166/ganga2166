@@ -83,6 +83,6 @@
    </picture>
 </p>
 
-[![HitCount](https://hits.dwyl.com/ganga2166/ganga2166.svg?style=flat-square)](http://hits.dwyl.com/ganga2166/ganga2166)
+![HitCount](https://hits.dwyl.com/ganga2166/ganga2166.svg?style=flat-square)
 
 
